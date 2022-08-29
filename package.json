@@ -1,5 +1,5 @@
 {
-  "name": "@alexplm/ajs-platforms",
+  "name": "@alexpmv/ajs-platforms",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlexPmv/ajs-platforms.git"
+    "url": "git+https://github.com/alexpmv/ajs-platforms.git"
   },
   "author": "A.P.",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AlexPmv/ajs-platforms/issues"
+    "url": "https://github.com/alexpmv/ajs-platforms/issues"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/"
   },
-  "homepage": "https://github.com/AlexPmv/ajs-platforms#readme",
+  "homepage": "https://github.com/alexpmv/ajs-platforms#readme",
   "devDependencies": {
     "@babel/cli": "^7.18.10",
     "@babel/core": "^7.18.13",
